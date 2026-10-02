@@ -1,0 +1,132 @@
+\documentclass[a4paper,10pt]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[brazil]{babel}
+\usepackage{geometry}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{xcolor}
+
+% Configuração das margens (calibradas para 1 página completa e elegante)
+\geometry{
+  left=1.3cm,
+  right=1.3cm,
+  top=1.2cm,
+  bottom=1.2cm
+}
+
+% Cores profissionais
+\definecolor{primary}{RGB}{20, 45, 85}
+\definecolor{darkgray}{RGB}{60, 60, 60}
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=primary,
+  urlcolor=primary
+}
+
+% Formatação dos títulos das seções
+\titleformat{\section}
+  {\large\bfseries\color{primary}}
+  {}
+  {0em}
+  {}[\titlerule]
+
+\titlespacing*{\section}{0pt}{6pt}{3pt}
+
+% Formatação de listas
+\setlist[itemize]{
+  leftmargin=1.25em,
+  topsep=1.5pt,
+  itemsep=1.5pt,
+  parsep=0pt
+}
+
+\pagestyle{empty}
+
+\begin{document}
+
+% ---------------- CABEÇALHO ----------------
+\begin{center}
+  {\LARGE \textbf{\color{primary} Logan Oliveira de Andrade}}\\[3pt]
+  \small
+  Fortaleza, CE $\vert$ (85) 9 8961-3846 $\vert$ 
+  \href{mailto:loganoliveiraa23@gmail.com}{loganoliveiraa23@gmail.com} $\vert$ 
+  \href{https://www.linkedin.com/in/loganoliveira}{linkedin.com/in/loganoliveira} $\vert$
+  \href{https://github.com/Loogan23}{github.com/Loogan23}
+\end{center}
+
+\vspace{-6pt}
+
+% ---------------- RESUMO PROFISSIONAL ----------------
+\section{Resumo Profissional}
+Graduando em Engenharia de Telecomunicações pela UFC com sólida atuação prática em Gestão de TI, coordenação de equipes técnicas e desenvolvimento de soluções de automação de processos. Experiência na gerência técnica de suporte e mídia em projeto de pesquisa nacional (INCT/CNPq), liderança de pessoas e processos no Movimento Empresa Júnior e concepção de ferramentas de software para ganho de produtividade operacional.
+
+% ---------------- FORMAÇÃO ACADÊMICA ----------------
+\section{Formação Acadêmica}
+\noindent\textbf{Universidade Federal do Ceará (UFC)} \hfill Fortaleza, CE\\
+\textit{Bacharelado em Engenharia de Telecomunicações} \hfill \textit{Previsão de Formatura: 04/2028}
+
+% ---------------- EXPERIÊNCIA PROFISSIONAL ----------------
+\section{Experiência Profissional}
+
+\noindent\textbf{Gerente de TI / Gestor Técnico} \hfill Fev. de 2025 -- Presente\\
+\textbf{LASP -- Laboratory of Applied Signal Processing / INCT - Signals (CNPq)} \hfill \textit{Fortaleza, CE}
+\begin{itemize}
+  \item Gerenciamento e sustentação contínua da infraestrutura computacional, ferramentas de TI e redes do laboratório.
+  \item Coordenação da equipe técnica de mídia e divulgação científica, além da organização logística de seminários e palestras.
+\end{itemize}
+
+\vspace{3pt}
+
+\noindent\textbf{Gerente de Gente \& Gestão e Vice-Presidência} \hfill Jun. de 2023 -- Jul. de 2024\\
+\textbf{GTi Engenharia Jr. (Empresa Júnior)} \hfill \textit{Fortaleza, CE}
+\begin{itemize}
+  \item Liderança dos subsistemas de RH da empresa (recrutamento, seleção, onboarding e avaliação de desempenho de membros).
+  \item Atuação consultiva junto à Vice-Presidência, apoiando governança interna, rotinas administrativas e alinhamento estratégico.
+\end{itemize}
+
+\vspace{3pt}
+
+\noindent\textbf{Staff de Logística e Gestão de Pessoas} \hfill Abr. de 2023 -- Nov. de 2023\\
+\textbf{SEELECT -- Semana das Engenharias Elétrica, Computação e Telecomunicações} \hfill \textit{Fortaleza, CE}
+\begin{itemize}
+  \item Apoio à infraestrutura, controle de participantes e coordenação de voluntários em evento acadêmico integrado da UFC.
+\end{itemize}
+
+% ---------------- PROJETOS EM DESTAQUE ----------------
+\section{Projetos em Destaque}
+
+\noindent\textbf{AutoFlyer Acadêmico} $\vert$ \textit{Next.js 14, React, TypeScript, Tailwind CSS, jsPDF, html2canvas} \hfill \href{https://github.com/Loogan23}{[Projeto]}
+\begin{itemize}
+  \item Aplicação web para geração automatizada de peças de divulgação acadêmica em alta resolução (300 DPI) para o LASP/UFC e IEEE.
+  \item Implementação de motor de tipografia inteligente com \textit{Auto-Fit} dinâmico para textos longos (Abstract/Bio), pipeline de higienização de templates gráficos e exportação multi-página em PDF A4 e PNG sem perda de qualidade.
+\end{itemize}
+
+\vspace{3pt}
+
+\noindent\textbf{CertificAuto} $\vert$ \textit{Python, PyMuPDF, Pandas, OpenPyXL, Automação SMTP} \hfill \href{https://github.com/Loogan23/CertificAuto}{[Repositório]}
+\begin{itemize}
+  \item Software de automação para emissão em lote de certificados vetoriais e disparo individualizado de e-mails em milissegundos.
+  \item Desenvolvido com algoritmo de \textit{auto shrink-to-fit} para ajuste automático de nomes longos, detecção resiliente de colunas em planilhas Excel, proteção anti-flood e geração automática de relatórios de auditoria de disparos (.xlsx).
+\end{itemize}
+
+% ---------------- COMPETÊNCIAS & FERRAMENTAS ----------------
+\section{Competências \& Ferramentas}
+\begin{itemize}
+  \item \textbf{Gestão \& Metodologias:} Metodologias Ágeis (Scrum, Kanban), Liderança de Equipes Multidisciplinares, Gestão de Pessoas (RH), Logística e Gestão de Projetos.
+  \item \textbf{Linguagens \& Web:} Python, TypeScript, JavaScript, React, Next.js, HTML5, CSS3, Tailwind CSS.
+  \item \textbf{TI \& Engenharia:} Gestão e Suporte de TI, Redes e Sistemas de Telecomunicações, Manipulação Vetorial de PDF.
+  \item \textbf{Softwares de Produtividade \& Apoio:} Pacote Office / Excel, Ferramentas de Gestão Ágil (Trello, Notion, Jira), AutoCAD Básico.
+\end{itemize}
+
+% ---------------- IDIOMAS & CERTIFICAÇÕES ----------------
+\section{Idiomas \& Certificações}
+\begin{itemize}
+  \item \textbf{Idiomas:} Inglês Avançado (KNN Idiomas / Hilpro Idiomas).
+  \item \textbf{Cursos:} AutoCAD Básico (IFCE -- 20h), Produtividade com Pacote Office (LinkedIn Learning).
+\end{itemize}
+
+\end{document}

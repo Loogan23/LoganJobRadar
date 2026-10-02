@@ -1,0 +1,11 @@
+# Ambiente e Credenciais Sensíveis
+.env
+__pycache__/
+*.pyc
+
+# Arquivos de Sistema
+.DS_Store
+Thumbs.db
+
+# Saídas Locais Voláteis (opcional manter histórico)
+# output/relatorio_vagas.html

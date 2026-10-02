@@ -1,0 +1,231 @@
+# Configurações do Perfil do Candidato - Logan Oliveira de Andrade
+# RECONFIGURADO: Foco EXCLUSIVO em Vagas de ESTÁGIO (100% compatível com a UFC até 2028).
+
+candidate:
+  name: "Logan Oliveira de Andrade"
+  email: "loganoliveiraa23@gmail.com"
+  phone: "(85) 9 8961-3846"
+  linkedin: "https://www.linkedin.com/in/loganoliveira"
+  github: "https://github.com/Loogan23"
+  academic:
+    institution: "Universidade Federal do Ceará (UFC)"
+    course: "Engenharia de Telecomunicações"
+    expected_graduation: "04/2028"
+    status: "Graduando ativo"
+
+# Localização e Modalidades Aceitas
+location_preferences:
+  home_city: "Fortaleza"
+  home_state: "CE"
+  allowed_metro_cities:
+    - "Fortaleza"
+    - "Maracanaú"
+    - "Caucaia"
+    - "Eusébio"
+    - "Aquiraz"
+    - "Ceará"
+    - "CE"
+  accept_remote: true
+  accept_hybrid_local: true
+  accept_onsite_local: true
+  reject_onsite_other_cities: true
+
+# Níveis de Senioridade - EXCLUSIVIDADE DE ESTÁGIO
+seniority:
+  exclusive_internship: true # FILTRO RÍGIDO: Apenas vagas de estágio
+  allowed_levels:
+    - "estagio"
+    - "estágio"
+    - "estagiario"
+    - "estagiário"
+    - "estagiaria"
+    - "estagiária"
+    - "intern"
+    - "internship"
+  strict_negative_levels:
+    - "junior"
+    - "jr"
+    - "jr."
+    - "pleno"
+    - "pl"
+    - "pl."
+    - "senior"
+    - "sênior"
+    - "sr"
+    - "sr."
+    - "especialista"
+    - "expert"
+    - "staff"
+    - "principal"
+    - "diretor"
+    - "diretoria"
+    - "head"
+    - "gerente"
+    - "coordenador"
+    - "supervisor"
+    - "mid-level"
+
+# Termos Restritivos e Dealbreakers Globais
+dealbreakers:
+  - "clearance"
+  - "top secret"
+  - "ts/sci"
+  - "us citizen"
+  - "cidadania americana"
+  - "enfermagem"
+  - "balconista"
+  - "atendente de loja"
+  - "operador de caixa"
+  - "construção civil"
+  - "obras"
+  - "edificações"
+  - "estradas"
+  - "pavimentação"
+  - "farmácia"
+  - "farmacêutico"
+  - "redes sociais"
+  - "social media"
+  - "marketing digital"
+  - "copywriting"
+
+# Trilhas de Estágio Abrangentes (TI, Projetos/Scrum, RH/Gente, Dev/Engenharia)
+tracks:
+  estagio_ti_redes:
+    name: "Estágio em TI, Suporte Técnico & Redes"
+    priority: 1
+    weight: 1.0
+    search_queries:
+      - "estagio ti"
+      - "estagio redes"
+      - "estagio suporte"
+      - "estagio infraestrutura"
+      - "estagio help desk"
+    keywords:
+      - "gestão de ti"
+      - "infraestrutura"
+      - "redes de computadores"
+      - "suporte técnico"
+      - "help desk"
+      - "service desk"
+      - "telecomunicações"
+      - "sistemas de informação"
+      - "hardware"
+      - "linux"
+      - "windows"
+
+  estagio_projetos_agilidade:
+    name: "Estágio em Gestão de Projetos, Scrum & Agilidade"
+    priority: 1
+    weight: 1.0
+    search_queries:
+      - "estagio projetos"
+      - "estagio pmo"
+      - "estagio processos"
+      - "estagio scrum"
+      - "estagio agilidade"
+    keywords:
+      - "gestão de projetos"
+      - "gerenciamento de projetos"
+      - "scrum"
+      - "kanban"
+      - "metodologias ágeis"
+      - "agilidade"
+      - "pmo"
+      - "jira"
+      - "trello"
+      - "notion"
+      - "planejamento"
+      - "indicadores"
+
+  estagio_gente_gestao_rh:
+    name: "Estágio em Gente & Gestão, RH & Recrutamento"
+    priority: 1
+    weight: 1.0
+    search_queries:
+      - "estagio rh"
+      - "estagio gente e gestao"
+      - "estagio recrutamento e selecao"
+      - "estagio gestao de pessoas"
+    keywords:
+      - "gente e gestão"
+      - "recursos humanos"
+      - "rh"
+      - "recrutamento e seleção"
+      - "r&s"
+      - "talent acquisition"
+      - "atração de talentos"
+      - "onboarding"
+      - "gestão de pessoas"
+      - "clima organizacional"
+
+  estagio_dev_software:
+    name: "Estágio em Desenvolvimento de Software & Web"
+    priority: 1
+    weight: 1.0
+    search_queries:
+      - "estagio desenvolvimento"
+      - "estagio software"
+      - "estagio python"
+      - "estagio front-end"
+      - "estagio programacao"
+    keywords:
+      - "python"
+      - "typescript"
+      - "javascript"
+      - "react"
+      - "next.js"
+      - "web"
+      - "html"
+      - "css"
+      - "git"
+      - "github"
+      - "automação"
+      - "banco de dados"
+
+  estagio_telecom_engenharia:
+    name: "Estágio em Engenharia de Telecomunicações & Redes"
+    priority: 1
+    weight: 1.0
+    search_queries:
+      - "estagio telecomunicacoes"
+      - "estagio telecom"
+      - "estagio engenharia"
+      - "estagio sistemas de comunicacao"
+    keywords:
+      - "telecomunicações"
+      - "redes"
+      - "fibra óptica"
+      - "wireless"
+      - "antenas"
+      - "sistemas de comunicação"
+      - "tcp/ip"
+      - "sinais"
+
+# Parâmetros de Pontuação (Score de Compatibilidade de 0 a 100)
+scoring:
+  min_score_display: 50.0
+  high_recommendation_score: 75.0
+  weights:
+    title_match: 40
+    keywords_match: 25
+    modality_location_match: 20
+    seniority_match: 15
+
+# Plataformas Ativas
+platforms:
+  linkedin:
+    enabled: true
+    locations:
+      - name: "Fortaleza, Ceará, Brasil"
+        is_remote: false
+      - name: "Brasil"
+        is_remote: true
+  gupy:
+    enabled: true
+    max_pages: 3
+
+# Notificações via Telegram
+telegram:
+  enabled: true
+  min_score_to_notify: 70.0 # Notificar vagas de estágio com score >= 70%
+  max_alerts_per_run: 6
