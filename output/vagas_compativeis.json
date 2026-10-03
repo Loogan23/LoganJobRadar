@@ -18,7 +18,7 @@
       "Nível de senioridade perfeito (Estágio/Júnior/Trainee)",
       "Modalidade 100% Remota (máxima conveniência)",
       "Título altamente aderente à trilha 'Estágio em Desenvolvimento de Software & Web'",
-      "Competências encontradas (4): sistemas de informação, gestão de ti, automação, metodologias ágeis"
+      "Competências encontradas (4): gestão de ti, sistemas de informação, automação, metodologias ágeis"
     ],
     "published_at": "2026-05-25T17:55:42.459Z",
     "raw_data": {
@@ -215,7 +215,7 @@
       "Título altamente aderente à trilha 'Estágio em TI, Suporte Técnico & Redes'",
       "Competências encontradas (1): help desk"
     ],
-    "published_at": "Há 1 dia",
+    "published_at": "Há 2 dias",
     "raw_data": {}
   },
   {
@@ -240,30 +240,6 @@
       "Competências encontradas (1): infraestrutura"
     ],
     "published_at": "Há 1 mês",
-    "raw_data": {}
-  },
-  {
-    "id": "li_3",
-    "title": "Pessoa Estagiária Nível Superior - Service Desk",
-    "company": "Unimed Fortaleza",
-    "location": "Fortaleza, CE",
-    "city": "Fortaleza",
-    "state": "CE",
-    "is_remote": false,
-    "modality": "Presencial",
-    "url": "https://br.linkedin.com/jobs/view/pessoa-estagi%C3%A1ria-n%C3%ADvel-superior-service-desk-at-unimed-fortaleza-4473981552",
-    "source": "LinkedIn",
-    "description": "",
-    "seniority": "",
-    "track_matched": "Estágio em TI, Suporte Técnico & Redes",
-    "match_score": 60.0,
-    "score_reasons": [
-      "Nível de senioridade perfeito (Estágio/Júnior/Trainee)",
-      "Localizada na Região Metropolitana de Fortaleza",
-      "Título altamente aderente à trilha 'Estágio em TI, Suporte Técnico & Redes'",
-      "Competências encontradas (1): service desk"
-    ],
-    "published_at": "Há 2 dias",
     "raw_data": {}
   },
   {
@@ -311,7 +287,7 @@
       "Título altamente aderente à trilha 'Estágio em TI, Suporte Técnico & Redes'",
       "Competências encontradas (1): infraestrutura"
     ],
-    "published_at": "Há 3 semanas",
+    "published_at": "Há 4 semanas",
     "raw_data": {}
   },
   {
@@ -359,7 +335,7 @@
       "Título altamente aderente à trilha 'Estágio em Desenvolvimento de Software & Web'",
       "Competências encontradas (1): hardware"
     ],
-    "published_at": "Há 6 dias",
+    "published_at": "Há 1 semana",
     "raw_data": {}
   },
   {
@@ -384,6 +360,30 @@
       "Competências encontradas (1): suporte técnico"
     ],
     "published_at": "Há 2 semanas",
+    "raw_data": {}
+  },
+  {
+    "id": "li_3",
+    "title": "ESTAGIÁRIO DE T.I [INFRAESTRUTURA E SUPORTE]",
+    "company": "Super Foods",
+    "location": "Santa Luzia, MG",
+    "city": "",
+    "state": "",
+    "is_remote": true,
+    "modality": "Remoto",
+    "url": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-de-t-i-infraestrutura-e-suporte-at-super-foods-4472758664",
+    "source": "LinkedIn",
+    "description": "",
+    "seniority": "",
+    "track_matched": "Estágio em TI, Suporte Técnico & Redes",
+    "match_score": 60.0,
+    "score_reasons": [
+      "Nível de senioridade perfeito (Estágio/Júnior/Trainee)",
+      "Modalidade 100% Remota (máxima conveniência)",
+      "Título altamente aderente à trilha 'Estágio em TI, Suporte Técnico & Redes'",
+      "Competências encontradas (1): infraestrutura"
+    ],
+    "published_at": "Há 4 dias",
     "raw_data": {}
   },
   {
@@ -484,14 +484,14 @@
   },
   {
     "id": "li_3",
-    "title": "Estágio em Recrutamento e Seleção",
-    "company": "Exxmartt",
-    "location": "Embu das Artes, SP",
+    "title": "Estagiário(a) de Recrutamento e Seleção  - Caieiras",
+    "company": "Softys",
+    "location": "Caieiras, SP",
     "city": "",
     "state": "",
     "is_remote": true,
     "modality": "Remoto",
-    "url": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-recrutamento-e-sele%C3%A7%C3%A3o-at-exxmartt-4463641783",
+    "url": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-a-de-recrutamento-e-sele%C3%A7%C3%A3o-caieiras-at-softys-4467868151",
     "source": "LinkedIn",
     "description": "",
     "seniority": "",
@@ -503,7 +503,7 @@
       "Título altamente aderente à trilha 'Estágio em Gente & Gestão, RH & Recrutamento'",
       "Competências encontradas (1): recrutamento e seleção"
     ],
-    "published_at": "Há 4 semanas",
+    "published_at": "Há 2 semanas",
     "raw_data": {}
   },
   {
@@ -527,7 +527,7 @@
       "Título altamente aderente à trilha 'Estágio em Gente & Gestão, RH & Recrutamento'",
       "Competências encontradas (1): talent acquisition"
     ],
-    "published_at": "Há 1 dia",
+    "published_at": "Há 2 dias",
     "raw_data": {}
   },
   {
@@ -594,6 +594,29 @@
   },
   {
     "id": "li_3",
+    "title": "Estágio de Sistemas e Eficiência de Dados",
+    "company": "Casa dos Ventos Energias Renováveis",
+    "location": "Fortaleza, CE",
+    "city": "Fortaleza",
+    "state": "CE",
+    "is_remote": false,
+    "modality": "Presencial",
+    "url": "https://br.linkedin.com/jobs/view/est%C3%A1gio-de-sistemas-e-efici%C3%AAncia-de-dados-at-casa-dos-ventos-energias-renov%C3%A1veis-4468927862",
+    "source": "LinkedIn",
+    "description": "",
+    "seniority": "",
+    "track_matched": "Estágio em Engenharia de Telecomunicações & Redes",
+    "match_score": 55.0,
+    "score_reasons": [
+      "Nível de senioridade perfeito (Estágio/Júnior/Trainee)",
+      "Localizada na Região Metropolitana de Fortaleza",
+      "Título altamente aderente à trilha 'Estágio em Engenharia de Telecomunicações & Redes'"
+    ],
+    "published_at": "Há 1 semana",
+    "raw_data": {}
+  },
+  {
+    "id": "li_3",
     "title": "Estágio em Desenvolvimento de Software | Fortaleza/CE",
     "company": "Ponce Tech",
     "location": "Fortaleza, CE",
@@ -647,7 +670,7 @@
     "state": "CE",
     "is_remote": false,
     "modality": "Presencial",
-    "url": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-de-engenharia-el%C3%A9trica-at-satel-brasil-4447327716",
+    "url": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-de-engenharia-el%C3%A9trica-at-satel-brasil-4463123583",
     "source": "LinkedIn",
     "description": "",
     "seniority": "",
@@ -658,7 +681,7 @@
       "Localizada na Região Metropolitana de Fortaleza",
       "Título altamente aderente à trilha 'Estágio em Engenharia de Telecomunicações & Redes'"
     ],
-    "published_at": "Há 1 mês",
+    "published_at": "Há 4 semanas",
     "raw_data": {}
   },
   {
@@ -704,7 +727,7 @@
       "Localizada na Região Metropolitana de Fortaleza",
       "Título altamente aderente à trilha 'Estágio em Engenharia de Telecomunicações & Redes'"
     ],
-    "published_at": "Há 3 dias",
+    "published_at": "Há 4 dias",
     "raw_data": {}
   },
   {
@@ -796,7 +819,7 @@
       "Localizada na Região Metropolitana de Fortaleza",
       "Título altamente aderente à trilha 'Estágio em Engenharia de Telecomunicações & Redes'"
     ],
-    "published_at": "Há 1 dia",
+    "published_at": "Há 2 dias",
     "raw_data": {}
   },
   {
@@ -865,7 +888,7 @@
       "Localizada na Região Metropolitana de Fortaleza",
       "Título altamente aderente à trilha 'Estágio em Desenvolvimento de Software & Web'"
     ],
-    "published_at": "Há 5 horas",
+    "published_at": "Há 20 horas",
     "raw_data": {}
   },
   {
@@ -957,7 +980,7 @@
       "Localizada na Região Metropolitana de Fortaleza",
       "Título altamente aderente à trilha 'Estágio em Engenharia de Telecomunicações & Redes'"
     ],
-    "published_at": "Há 9 horas",
+    "published_at": "Há 1 dia",
     "raw_data": {}
   },
   {
@@ -1398,26 +1421,26 @@
     "raw_data": {}
   },
   {
-    "id": "li_3",
-    "title": "Programa de Estágio em Tecnologia | Afirmativo para Pessoas Negras - São Paulo",
-    "company": "FTD Educação",
-    "location": "São Paulo, SP",
+    "id": "li_0",
+    "title": "👨🏽💻💡Estagiário(a) em Desenvolvimento de Software - Multiprojetos Time de Produtos Criptográficos (CÓD.5789)",
+    "company": "Kryptus S.A. (EED)",
+    "location": "Campinas, SP",
     "city": "",
     "state": "",
     "is_remote": true,
     "modality": "Remoto",
-    "url": "https://br.linkedin.com/jobs/view/programa-de-est%C3%A1gio-em-tecnologia-afirmativo-para-pessoas-negras-s%C3%A3o-paulo-at-ftd-educa%C3%A7%C3%A3o-4464286196",
+    "url": "https://br.linkedin.com/jobs/view/%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB%F0%9F%92%A1estagi%C3%A1rio-a-em-desenvolvimento-de-software-multiprojetos-time-de-produtos-criptogr%C3%A1ficos-c%C3%B3d-5789-at-kryptus-sa-4458045259",
     "source": "LinkedIn",
     "description": "",
     "seniority": "",
-    "track_matched": "Estágio em Gente & Gestão, RH & Recrutamento",
+    "track_matched": "Estágio em Gestão de Projetos, Scrum & Agilidade",
     "match_score": 55.0,
     "score_reasons": [
       "Nível de senioridade perfeito (Estágio/Júnior/Trainee)",
       "Modalidade 100% Remota (máxima conveniência)",
-      "Título altamente aderente à trilha 'Estágio em Gente & Gestão, RH & Recrutamento'"
+      "Título altamente aderente à trilha 'Estágio em Gestão de Projetos, Scrum & Agilidade'"
     ],
-    "published_at": "Há 2 semanas",
+    "published_at": "Há 1 mês",
     "raw_data": {}
   },
   {
@@ -1468,29 +1491,6 @@
   },
   {
     "id": "li_3",
-    "title": "Estagiário(a) de Desenvolvimento de Software",
-    "company": "Aiyra Engenharia de Dados",
-    "location": "Natal, RN",
-    "city": "",
-    "state": "",
-    "is_remote": true,
-    "modality": "Remoto",
-    "url": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-a-de-desenvolvimento-de-software-at-aiyra-engenharia-de-dados-4473183316",
-    "source": "LinkedIn",
-    "description": "",
-    "seniority": "",
-    "track_matched": "Estágio em Desenvolvimento de Software & Web",
-    "match_score": 55.0,
-    "score_reasons": [
-      "Nível de senioridade perfeito (Estágio/Júnior/Trainee)",
-      "Modalidade 100% Remota (máxima conveniência)",
-      "Título altamente aderente à trilha 'Estágio em Desenvolvimento de Software & Web'"
-    ],
-    "published_at": "Há 4 horas",
-    "raw_data": {}
-  },
-  {
-    "id": "li_3",
     "title": "ESTAGIÁRIO DE DESENVOLVIMENTO DE SOFTWARE - SÃO PAULO/SP",
     "company": "Tahto",
     "location": "São Paulo, SP",
@@ -1509,30 +1509,53 @@
       "Modalidade 100% Remota (máxima conveniência)",
       "Título altamente aderente à trilha 'Estágio em Desenvolvimento de Software & Web'"
     ],
-    "published_at": "Há 6 dias",
+    "published_at": "Há 1 semana",
     "raw_data": {}
   },
   {
-    "id": "li_0",
-    "title": "👨🏽💻💡Estagiário(a) em Desenvolvimento de Software - Multiprojetos Time de Produtos Criptográficos (CÓD.5789)",
-    "company": "Kryptus S.A. (EED)",
-    "location": "Campinas, SP",
+    "id": "li_4469613907",
+    "title": "Software Developer Intern - Brazil",
+    "company": "AVEVA",
+    "location": "São Paulo, SP",
     "city": "",
     "state": "",
     "is_remote": true,
     "modality": "Remoto",
-    "url": "https://br.linkedin.com/jobs/view/%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB%F0%9F%92%A1estagi%C3%A1rio-a-em-desenvolvimento-de-software-multiprojetos-time-de-produtos-criptogr%C3%A1ficos-c%C3%B3d-5789-at-kryptus-sa-4458045259",
+    "url": "https://br.linkedin.com/jobs/view/software-developer-intern-brazil-at-aveva-4469613907",
     "source": "LinkedIn",
     "description": "",
     "seniority": "",
-    "track_matched": "Estágio em Gestão de Projetos, Scrum & Agilidade",
+    "track_matched": "Estágio em Desenvolvimento de Software & Web",
     "match_score": 55.0,
     "score_reasons": [
       "Nível de senioridade perfeito (Estágio/Júnior/Trainee)",
       "Modalidade 100% Remota (máxima conveniência)",
-      "Título altamente aderente à trilha 'Estágio em Gestão de Projetos, Scrum & Agilidade'"
+      "Título altamente aderente à trilha 'Estágio em Desenvolvimento de Software & Web'"
     ],
-    "published_at": "Há 1 mês",
+    "published_at": "Há 1 semana",
+    "raw_data": {}
+  },
+  {
+    "id": "li_3",
+    "title": "Estágio em Desenvolvimento de Integrações | Consultoria em TI. - (Tecnologia da Informação - Desenv. de Sistemas) EDI LABS",
+    "company": "Instituto Via de Acesso",
+    "location": "São Paulo, SP",
+    "city": "",
+    "state": "",
+    "is_remote": true,
+    "modality": "Remoto",
+    "url": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-desenvolvimento-de-integra%C3%A7%C3%B5es-consultoria-em-ti-tecnologia-da-informa%C3%A7%C3%A3o-desenv-de-sistemas-edi-labs-at-instituto-via-de-acesso-4471445624",
+    "source": "LinkedIn",
+    "description": "",
+    "seniority": "",
+    "track_matched": "Estágio em Desenvolvimento de Software & Web",
+    "match_score": 55.0,
+    "score_reasons": [
+      "Nível de senioridade perfeito (Estágio/Júnior/Trainee)",
+      "Modalidade 100% Remota (máxima conveniência)",
+      "Título altamente aderente à trilha 'Estágio em Desenvolvimento de Software & Web'"
+    ],
+    "published_at": "Há 1 semana",
     "raw_data": {}
   },
   {
@@ -1579,29 +1602,6 @@
       "Título altamente aderente à trilha 'Estágio em Desenvolvimento de Software & Web'"
     ],
     "published_at": "Há 1 dia",
-    "raw_data": {}
-  },
-  {
-    "id": "li_4469613907",
-    "title": "Software Developer Intern - Brazil",
-    "company": "AVEVA",
-    "location": "São Paulo, SP",
-    "city": "",
-    "state": "",
-    "is_remote": true,
-    "modality": "Remoto",
-    "url": "https://br.linkedin.com/jobs/view/software-developer-intern-brazil-at-aveva-4469613907",
-    "source": "LinkedIn",
-    "description": "",
-    "seniority": "",
-    "track_matched": "Estágio em Desenvolvimento de Software & Web",
-    "match_score": 55.0,
-    "score_reasons": [
-      "Nível de senioridade perfeito (Estágio/Júnior/Trainee)",
-      "Modalidade 100% Remota (máxima conveniência)",
-      "Título altamente aderente à trilha 'Estágio em Desenvolvimento de Software & Web'"
-    ],
-    "published_at": "Há 1 semana",
     "raw_data": {}
   },
   {
