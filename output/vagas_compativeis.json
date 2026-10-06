@@ -18,7 +18,7 @@
       "Nível de senioridade perfeito (Estágio/Júnior/Trainee)",
       "Modalidade 100% Remota (máxima conveniência)",
       "Título altamente aderente à trilha 'Estágio em Desenvolvimento de Software & Web'",
-      "Competências encontradas (4): automação, sistemas de informação, gestão de ti, metodologias ágeis"
+      "Competências encontradas (4): metodologias ágeis, automação, sistemas de informação, gestão de ti"
     ],
     "published_at": "2026-05-25T17:55:42.459Z",
     "raw_data": {
@@ -105,7 +105,7 @@
       "Modalidade 100% Remota (máxima conveniência)",
       "Título altamente aderente à trilha 'Estágio em Engenharia de Telecomunicações & Redes'"
     ],
-    "published_at": "Há 2 dias",
+    "published_at": "Há 3 dias",
     "raw_data": {}
   },
   {
@@ -150,7 +150,7 @@
       "Nível de senioridade perfeito (Estágio/Júnior/Trainee)",
       "Modalidade 100% Remota (máxima conveniência)",
       "Título altamente aderente à trilha 'Estágio em Desenvolvimento de Software & Web'",
-      "Competências encontradas (2): python, sistemas de informação"
+      "Competências encontradas (2): sistemas de informação, python"
     ],
     "published_at": "2026-10-02T10:41:07.666Z",
     "raw_data": {
@@ -310,7 +310,7 @@
       "Título altamente aderente à trilha 'Estágio em Gente & Gestão, RH & Recrutamento'",
       "Competências encontradas (1): automação"
     ],
-    "published_at": "Há 3 dias",
+    "published_at": "Há 4 dias",
     "raw_data": {}
   },
   {
@@ -483,6 +483,30 @@
   },
   {
     "id": "li_3",
+    "title": "Estagiário(a) em Recrutamento e Seleção",
+    "company": "Selbetti Tecnologia",
+    "location": "Joinville, SC",
+    "city": "",
+    "state": "",
+    "is_remote": true,
+    "modality": "Remoto",
+    "url": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-a-em-recrutamento-e-sele%C3%A7%C3%A3o-at-selbetti-tecnologia-4473685781",
+    "source": "LinkedIn",
+    "description": "",
+    "seniority": "",
+    "track_matched": "Estágio em Gente & Gestão, RH & Recrutamento",
+    "match_score": 60.0,
+    "score_reasons": [
+      "Nível de senioridade perfeito (Estágio/Júnior/Trainee)",
+      "Modalidade 100% Remota (máxima conveniência)",
+      "Título altamente aderente à trilha 'Estágio em Gente & Gestão, RH & Recrutamento'",
+      "Competências encontradas (1): recrutamento e seleção"
+    ],
+    "published_at": "Há 3 horas",
+    "raw_data": {}
+  },
+  {
+    "id": "li_3",
     "title": "Estágio I Gestão de Pessoas",
     "company": "Sementes Estrela",
     "location": "Erechim, RS",
@@ -527,30 +551,6 @@
       "Competências encontradas (1): recrutamento e seleção"
     ],
     "published_at": "Há 2 semanas",
-    "raw_data": {}
-  },
-  {
-    "id": "li_3",
-    "title": "Estágio em Recrutamento e Seleção",
-    "company": "Exxmartt",
-    "location": "Embu das Artes, SP",
-    "city": "",
-    "state": "",
-    "is_remote": true,
-    "modality": "Remoto",
-    "url": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-recrutamento-e-sele%C3%A7%C3%A3o-at-exxmartt-4463641783",
-    "source": "LinkedIn",
-    "description": "",
-    "seniority": "",
-    "track_matched": "Estágio em Gente & Gestão, RH & Recrutamento",
-    "match_score": 60.0,
-    "score_reasons": [
-      "Nível de senioridade perfeito (Estágio/Júnior/Trainee)",
-      "Modalidade 100% Remota (máxima conveniência)",
-      "Título altamente aderente à trilha 'Estágio em Gente & Gestão, RH & Recrutamento'",
-      "Competências encontradas (1): recrutamento e seleção"
-    ],
-    "published_at": "Há 1 mês",
     "raw_data": {}
   },
   {
@@ -717,7 +717,7 @@
     "state": "CE",
     "is_remote": false,
     "modality": "Presencial",
-    "url": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-de-engenharia-el%C3%A9trica-at-satel-brasil-4463123583",
+    "url": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-de-engenharia-el%C3%A9trica-at-satel-brasil-4447327716",
     "source": "LinkedIn",
     "description": "",
     "seniority": "",
@@ -728,7 +728,7 @@
       "Localizada na Região Metropolitana de Fortaleza",
       "Título altamente aderente à trilha 'Estágio em Engenharia de Telecomunicações & Redes'"
     ],
-    "published_at": "Há 1 mês",
+    "published_at": "Há 2 meses",
     "raw_data": {}
   },
   {
@@ -848,6 +848,29 @@
   },
   {
     "id": "li_3",
+    "title": "Estágio em Engenharia Civil/Arquitetura - Fortaleza | CE",
+    "company": "MRV",
+    "location": "Fortaleza, CE",
+    "city": "Fortaleza",
+    "state": "CE",
+    "is_remote": false,
+    "modality": "Presencial",
+    "url": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-engenharia-civil-arquitetura-fortaleza-ce-at-mrv-4474002184",
+    "source": "LinkedIn",
+    "description": "",
+    "seniority": "",
+    "track_matched": "Estágio em Engenharia de Telecomunicações & Redes",
+    "match_score": 55.0,
+    "score_reasons": [
+      "Nível de senioridade perfeito (Estágio/Júnior/Trainee)",
+      "Localizada na Região Metropolitana de Fortaleza",
+      "Título altamente aderente à trilha 'Estágio em Engenharia de Telecomunicações & Redes'"
+    ],
+    "published_at": "Há 3 horas",
+    "raw_data": {}
+  },
+  {
+    "id": "li_3",
     "title": "Estagiário(a) de Operações e Projetos – Serviços",
     "company": "TOTVS Nordeste",
     "location": "Fortaleza, CE",
@@ -889,7 +912,7 @@
       "Localizada na Região Metropolitana de Fortaleza",
       "Título altamente aderente à trilha 'Estágio em Engenharia de Telecomunicações & Redes'"
     ],
-    "published_at": "Há 4 dias",
+    "published_at": "Há 5 dias",
     "raw_data": {}
   },
   {
@@ -958,7 +981,7 @@
       "Localizada na Região Metropolitana de Fortaleza",
       "Título altamente aderente à trilha 'Estágio em Gestão de Projetos, Scrum & Agilidade'"
     ],
-    "published_at": "Há 4 dias",
+    "published_at": "Há 5 dias",
     "raw_data": {}
   },
   {
@@ -981,7 +1004,7 @@
       "Localizada na Região Metropolitana de Fortaleza",
       "Título altamente aderente à trilha 'Estágio em Desenvolvimento de Software & Web'"
     ],
-    "published_at": "Há 2 semanas",
+    "published_at": "Há 3 semanas",
     "raw_data": {}
   },
   {
@@ -1005,29 +1028,6 @@
       "Título altamente aderente à trilha 'Estágio em Engenharia de Telecomunicações & Redes'"
     ],
     "published_at": "Há 2 semanas",
-    "raw_data": {}
-  },
-  {
-    "id": "li_3",
-    "title": "ESTAGIÁRIO ENGENHARIA MECÂNICA  FORTALEZA/CE",
-    "company": "Guanabara",
-    "location": "Fortaleza, CE",
-    "city": "Fortaleza",
-    "state": "CE",
-    "is_remote": false,
-    "modality": "Presencial",
-    "url": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-engenharia-mec%C3%A2nica-fortaleza-ce-at-guanabara-4453803388",
-    "source": "LinkedIn",
-    "description": "",
-    "seniority": "",
-    "track_matched": "Estágio em Engenharia de Telecomunicações & Redes",
-    "match_score": 55.0,
-    "score_reasons": [
-      "Nível de senioridade perfeito (Estágio/Júnior/Trainee)",
-      "Localizada na Região Metropolitana de Fortaleza",
-      "Título altamente aderente à trilha 'Estágio em Engenharia de Telecomunicações & Redes'"
-    ],
-    "published_at": "Há 1 mês",
     "raw_data": {}
   },
   {
@@ -1165,7 +1165,7 @@
       "Modalidade 100% Remota (máxima conveniência)",
       "Título altamente aderente à trilha 'Estágio em Desenvolvimento de Software & Web'"
     ],
-    "published_at": "Há 6 dias",
+    "published_at": "Há 1 semana",
     "raw_data": {}
   },
   {
@@ -1303,7 +1303,7 @@
       "Modalidade 100% Remota (máxima conveniência)",
       "Título altamente aderente à trilha 'Estágio em Gestão de Projetos, Scrum & Agilidade'"
     ],
-    "published_at": "Há 6 dias",
+    "published_at": "Há 1 semana",
     "raw_data": {}
   },
   {
@@ -1491,29 +1491,6 @@
     "raw_data": {}
   },
   {
-    "id": "li_0",
-    "title": "👨🏽💻💡Estagiário(a) em Desenvolvimento de Software - Multiprojetos Time de Produtos Criptográficos (CÓD.5789)",
-    "company": "Kryptus S.A. (EED)",
-    "location": "Campinas, SP",
-    "city": "",
-    "state": "",
-    "is_remote": true,
-    "modality": "Remoto",
-    "url": "https://br.linkedin.com/jobs/view/%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB%F0%9F%92%A1estagi%C3%A1rio-a-em-desenvolvimento-de-software-multiprojetos-time-de-produtos-criptogr%C3%A1ficos-c%C3%B3d-5789-at-kryptus-sa-4458045259",
-    "source": "LinkedIn",
-    "description": "",
-    "seniority": "",
-    "track_matched": "Estágio em Gestão de Projetos, Scrum & Agilidade",
-    "match_score": 55.0,
-    "score_reasons": [
-      "Nível de senioridade perfeito (Estágio/Júnior/Trainee)",
-      "Modalidade 100% Remota (máxima conveniência)",
-      "Título altamente aderente à trilha 'Estágio em Gestão de Projetos, Scrum & Agilidade'"
-    ],
-    "published_at": "Há 1 mês",
-    "raw_data": {}
-  },
-  {
     "id": "li_3",
     "title": "Estágio em Desenvolvimento de Software",
     "company": "HStern",
@@ -1556,7 +1533,30 @@
       "Modalidade 100% Remota (máxima conveniência)",
       "Título altamente aderente à trilha 'Estágio em Desenvolvimento de Software & Web'"
     ],
-    "published_at": "Há 1 semana",
+    "published_at": "Há 2 semanas",
+    "raw_data": {}
+  },
+  {
+    "id": "li_0",
+    "title": "👨🏽💻💡Estagiário(a) em Desenvolvimento de Software - Multiprojetos Time de Produtos Criptográficos (CÓD.5789)",
+    "company": "Kryptus S.A. (EED)",
+    "location": "Campinas, SP",
+    "city": "",
+    "state": "",
+    "is_remote": true,
+    "modality": "Remoto",
+    "url": "https://br.linkedin.com/jobs/view/%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB%F0%9F%92%A1estagi%C3%A1rio-a-em-desenvolvimento-de-software-multiprojetos-time-de-produtos-criptogr%C3%A1ficos-c%C3%B3d-5789-at-kryptus-sa-4458045259",
+    "source": "LinkedIn",
+    "description": "",
+    "seniority": "",
+    "track_matched": "Estágio em Gestão de Projetos, Scrum & Agilidade",
+    "match_score": 55.0,
+    "score_reasons": [
+      "Nível de senioridade perfeito (Estágio/Júnior/Trainee)",
+      "Modalidade 100% Remota (máxima conveniência)",
+      "Título altamente aderente à trilha 'Estágio em Gestão de Projetos, Scrum & Agilidade'"
+    ],
+    "published_at": "Há 1 mês",
     "raw_data": {}
   },
   {
@@ -1649,6 +1649,29 @@
       "Título altamente aderente à trilha 'Estágio em Desenvolvimento de Software & Web'"
     ],
     "published_at": "Há 1 semana",
+    "raw_data": {}
+  },
+  {
+    "id": "li_3",
+    "title": "Estágio em Desenvolvimento Full Stack",
+    "company": "Bwtech",
+    "location": "Belo Horizonte e Região",
+    "city": "",
+    "state": "",
+    "is_remote": true,
+    "modality": "Remoto",
+    "url": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-desenvolvimento-full-stack-at-bwtech-4476125051",
+    "source": "LinkedIn",
+    "description": "",
+    "seniority": "",
+    "track_matched": "Estágio em Desenvolvimento de Software & Web",
+    "match_score": 55.0,
+    "score_reasons": [
+      "Nível de senioridade perfeito (Estágio/Júnior/Trainee)",
+      "Modalidade 100% Remota (máxima conveniência)",
+      "Título altamente aderente à trilha 'Estágio em Desenvolvimento de Software & Web'"
+    ],
+    "published_at": "Há 1 hora",
     "raw_data": {}
   },
   {
