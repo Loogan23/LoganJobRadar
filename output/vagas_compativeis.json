@@ -18,7 +18,7 @@
       "Nível de senioridade perfeito (Estágio/Júnior/Trainee)",
       "Modalidade 100% Remota (máxima conveniência)",
       "Título altamente aderente à trilha 'Estágio em Desenvolvimento de Software & Web'",
-      "Competências encontradas (4): automação, gestão de ti, metodologias ágeis, sistemas de informação"
+      "Competências encontradas (4): gestão de ti, metodologias ágeis, sistemas de informação, automação"
     ],
     "published_at": "2026-05-25T17:55:42.459Z",
     "raw_data": {
@@ -368,7 +368,7 @@
       "Título altamente aderente à trilha 'Estágio em Gestão de Projetos, Scrum & Agilidade'",
       "Competências encontradas (1): gestão de projetos"
     ],
-    "published_at": "Há 19 horas",
+    "published_at": "Há 1 dia",
     "raw_data": {}
   },
   {
@@ -536,7 +536,7 @@
       "Título altamente aderente à trilha 'Estágio em Desenvolvimento de Software & Web'",
       "Competências encontradas (1): python"
     ],
-    "published_at": "Há 3 horas",
+    "published_at": "Há 7 horas",
     "raw_data": {}
   },
   {
@@ -584,7 +584,7 @@
       "Título altamente aderente à trilha 'Estágio em Engenharia de Telecomunicações & Redes'",
       "Competências encontradas (1): telecomunicações"
     ],
-    "published_at": "Há 17 horas",
+    "published_at": "Há 22 horas",
     "raw_data": {}
   },
   {
@@ -608,7 +608,7 @@
       "Título altamente aderente à trilha 'Estágio em Engenharia de Telecomunicações & Redes'",
       "Competências encontradas (1): telecomunicações"
     ],
-    "published_at": "Há 16 horas",
+    "published_at": "Há 21 horas",
     "raw_data": {}
   },
   {
@@ -1033,7 +1033,7 @@
       "Localizada na Região Metropolitana de Fortaleza",
       "Título altamente aderente à trilha 'Estágio em Desenvolvimento de Software & Web'"
     ],
-    "published_at": "Há 6 dias",
+    "published_at": "Há 1 semana",
     "raw_data": {}
   },
   {
@@ -1309,7 +1309,7 @@
       "Modalidade 100% Remota (máxima conveniência)",
       "Título altamente aderente à trilha 'Estágio em Desenvolvimento de Software & Web'"
     ],
-    "published_at": "Há 5 dias",
+    "published_at": "Há 6 dias",
     "raw_data": {}
   },
   {
@@ -1383,29 +1383,6 @@
   },
   {
     "id": "li_3",
-    "title": "Estagiário de Projetos Automotivos",
-    "company": "STEP Brasil",
-    "location": "Sete Lagoas, MG",
-    "city": "",
-    "state": "",
-    "is_remote": true,
-    "modality": "Remoto",
-    "url": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-de-projetos-automotivos-at-step-brasil-4463058616",
-    "source": "LinkedIn",
-    "description": "",
-    "seniority": "",
-    "track_matched": "Estágio em Gestão de Projetos, Scrum & Agilidade",
-    "match_score": 55.0,
-    "score_reasons": [
-      "Nível de senioridade perfeito (Estágio/Júnior/Trainee)",
-      "Modalidade 100% Remota (máxima conveniência)",
-      "Título altamente aderente à trilha 'Estágio em Gestão de Projetos, Scrum & Agilidade'"
-    ],
-    "published_at": "Há 4 semanas",
-    "raw_data": {}
-  },
-  {
-    "id": "li_3",
     "title": "Estagiário de Projetos - Engenharia Civil e Engenharia de Transportes",
     "company": "Strata Engenharia",
     "location": "Belo Horizonte, MG",
@@ -1475,6 +1452,29 @@
   },
   {
     "id": "li_3",
+    "title": "Estagiário(a) de Projetos - Gerenciamento de Áreas Contaminadas (GAC)",
+    "company": "Ambsolution - Engenharia Ambiental",
+    "location": "Santo André, SP",
+    "city": "",
+    "state": "",
+    "is_remote": true,
+    "modality": "Remoto",
+    "url": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-a-de-projetos-gerenciamento-de-%C3%A1reas-contaminadas-gac-at-ambsolution-engenharia-ambiental-4447856602",
+    "source": "LinkedIn",
+    "description": "",
+    "seniority": "",
+    "track_matched": "Estágio em Gestão de Projetos, Scrum & Agilidade",
+    "match_score": 55.0,
+    "score_reasons": [
+      "Nível de senioridade perfeito (Estágio/Júnior/Trainee)",
+      "Modalidade 100% Remota (máxima conveniência)",
+      "Título altamente aderente à trilha 'Estágio em Gestão de Projetos, Scrum & Agilidade'"
+    ],
+    "published_at": "Há 2 meses",
+    "raw_data": {}
+  },
+  {
+    "id": "li_3",
     "title": "Estagiário de Projetos e Processos - Programação",
     "company": "Emefarma",
     "location": "Rio de Janeiro, RJ",
@@ -1498,29 +1498,6 @@
   },
   {
     "id": "li_3",
-    "title": "(Estágio) Engenharia de Software - Hibrido | Palhoça/SC",
-    "company": "echo_lab_tech",
-    "location": "Florianópolis, SC",
-    "city": "",
-    "state": "",
-    "is_remote": true,
-    "modality": "Remoto",
-    "url": "https://br.linkedin.com/jobs/view/est%C3%A1gio-engenharia-de-software-hibrido-palho%C3%A7a-sc-at-echo-lab-tech-4475239426",
-    "source": "LinkedIn",
-    "description": "",
-    "seniority": "",
-    "track_matched": "Estágio em Desenvolvimento de Software & Web",
-    "match_score": 55.0,
-    "score_reasons": [
-      "Nível de senioridade perfeito (Estágio/Júnior/Trainee)",
-      "Modalidade 100% Remota (máxima conveniência)",
-      "Título altamente aderente à trilha 'Estágio em Desenvolvimento de Software & Web'"
-    ],
-    "published_at": "Há 2 horas",
-    "raw_data": {}
-  },
-  {
-    "id": "li_3",
     "title": "Estágio de Engenheiro de Software",
     "company": "Companhia Excelsior de Seguros",
     "location": "Recife, PE",
@@ -1540,6 +1517,29 @@
       "Título altamente aderente à trilha 'Estágio em Desenvolvimento de Software & Web'"
     ],
     "published_at": "Há 2 semanas",
+    "raw_data": {}
+  },
+  {
+    "id": "li_0",
+    "title": "👨🏽💻💡Estagiário(a) em Desenvolvimento de Software - Multiprojetos Time de Produtos Criptográficos (CÓD.5789)",
+    "company": "Kryptus S.A. (EED)",
+    "location": "Campinas, SP",
+    "city": "",
+    "state": "",
+    "is_remote": true,
+    "modality": "Remoto",
+    "url": "https://br.linkedin.com/jobs/view/%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB%F0%9F%92%A1estagi%C3%A1rio-a-em-desenvolvimento-de-software-multiprojetos-time-de-produtos-criptogr%C3%A1ficos-c%C3%B3d-5789-at-kryptus-sa-4458045259",
+    "source": "LinkedIn",
+    "description": "",
+    "seniority": "",
+    "track_matched": "Estágio em Gestão de Projetos, Scrum & Agilidade",
+    "match_score": 55.0,
+    "score_reasons": [
+      "Nível de senioridade perfeito (Estágio/Júnior/Trainee)",
+      "Modalidade 100% Remota (máxima conveniência)",
+      "Título altamente aderente à trilha 'Estágio em Gestão de Projetos, Scrum & Agilidade'"
+    ],
+    "published_at": "Há 1 mês",
     "raw_data": {}
   },
   {
@@ -1632,29 +1632,6 @@
       "Título altamente aderente à trilha 'Estágio em Desenvolvimento de Software & Web'"
     ],
     "published_at": "Há 2 semanas",
-    "raw_data": {}
-  },
-  {
-    "id": "li_0",
-    "title": "👨🏽💻💡Estagiário(a) em Desenvolvimento de Software - Multiprojetos Time de Produtos Criptográficos (CÓD.5789)",
-    "company": "Kryptus S.A. (EED)",
-    "location": "Campinas, SP",
-    "city": "",
-    "state": "",
-    "is_remote": true,
-    "modality": "Remoto",
-    "url": "https://br.linkedin.com/jobs/view/%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB%F0%9F%92%A1estagi%C3%A1rio-a-em-desenvolvimento-de-software-multiprojetos-time-de-produtos-criptogr%C3%A1ficos-c%C3%B3d-5789-at-kryptus-sa-4458045259",
-    "source": "LinkedIn",
-    "description": "",
-    "seniority": "",
-    "track_matched": "Estágio em Gestão de Projetos, Scrum & Agilidade",
-    "match_score": 55.0,
-    "score_reasons": [
-      "Nível de senioridade perfeito (Estágio/Júnior/Trainee)",
-      "Modalidade 100% Remota (máxima conveniência)",
-      "Título altamente aderente à trilha 'Estágio em Gestão de Projetos, Scrum & Agilidade'"
-    ],
-    "published_at": "Há 1 mês",
     "raw_data": {}
   },
   {
