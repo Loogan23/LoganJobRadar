@@ -18,7 +18,7 @@
       "Nível de senioridade perfeito (Estágio/Júnior/Trainee)",
       "Modalidade 100% Remota (máxima conveniência)",
       "Título altamente aderente à trilha 'Estágio em Desenvolvimento de Software & Web'",
-      "Competências encontradas (4): gestão de ti, metodologias ágeis, sistemas de informação, automação"
+      "Competências encontradas (4): metodologias ágeis, automação, gestão de ti, sistemas de informação"
     ],
     "published_at": "2026-05-25T17:55:42.459Z",
     "raw_data": {
@@ -43,52 +43,6 @@
     }
   },
   {
-    "id": "li_4473402057",
-    "title": "Estagio em Engenharia de dados",
-    "company": "Instituto de Pesquisas ELDORADO",
-    "location": "Brasília, DF",
-    "city": "",
-    "state": "",
-    "is_remote": true,
-    "modality": "Remoto",
-    "url": "https://br.linkedin.com/jobs/view/estagio-em-engenharia-de-dados-at-instituto-de-pesquisas-eldorado-4473402057",
-    "source": "LinkedIn",
-    "description": "",
-    "seniority": "",
-    "track_matched": "Estágio em Engenharia de Telecomunicações & Redes",
-    "match_score": 70.0,
-    "score_reasons": [
-      "Nível de senioridade perfeito (Estágio/Júnior/Trainee)",
-      "Modalidade 100% Remota (máxima conveniência)",
-      "Título altamente aderente à trilha 'Estágio em Engenharia de Telecomunicações & Redes'"
-    ],
-    "published_at": "Há 6 dias",
-    "raw_data": {}
-  },
-  {
-    "id": "li_4441674166",
-    "title": "ESTAGIO ENGENHARIA DE TELECOMUNICACOES",
-    "company": "Zopone Engenharia",
-    "location": "Belo Horizonte, MG",
-    "city": "",
-    "state": "",
-    "is_remote": true,
-    "modality": "Remoto",
-    "url": "https://br.linkedin.com/jobs/view/estagio-engenharia-de-telecomunicacoes-at-zopone-engenharia-4441674166",
-    "source": "LinkedIn",
-    "description": "",
-    "seniority": "",
-    "track_matched": "Estágio em Engenharia de Telecomunicações & Redes",
-    "match_score": 70.0,
-    "score_reasons": [
-      "Nível de senioridade perfeito (Estágio/Júnior/Trainee)",
-      "Modalidade 100% Remota (máxima conveniência)",
-      "Título altamente aderente à trilha 'Estágio em Engenharia de Telecomunicações & Redes'"
-    ],
-    "published_at": "Há 2 meses",
-    "raw_data": {}
-  },
-  {
     "id": "gupy_12577451",
     "title": "Estágio em Desenvolvimento de Software / Data Mining",
     "company": "Instituto de Pesquisas ELDORADO",
@@ -107,7 +61,7 @@
       "Nível de senioridade perfeito (Estágio/Júnior/Trainee)",
       "Modalidade 100% Remota (máxima conveniência)",
       "Título altamente aderente à trilha 'Estágio em Desenvolvimento de Software & Web'",
-      "Competências encontradas (2): python, sistemas de informação"
+      "Competências encontradas (2): sistemas de informação, python"
     ],
     "published_at": "2026-10-02T10:41:07.666Z",
     "raw_data": {
@@ -205,54 +159,6 @@
   },
   {
     "id": "li_3",
-    "title": "Estágio em IA | Automação, agentes e dados",
-    "company": "Sanar",
-    "location": "São Paulo, SP",
-    "city": "",
-    "state": "",
-    "is_remote": true,
-    "modality": "Remoto",
-    "url": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-ia-automa%C3%A7%C3%A3o-agentes-e-dados-at-sanar-4473802814",
-    "source": "LinkedIn",
-    "description": "",
-    "seniority": "",
-    "track_matched": "Estágio em Gente & Gestão, RH & Recrutamento",
-    "match_score": 60.0,
-    "score_reasons": [
-      "Nível de senioridade perfeito (Estágio/Júnior/Trainee)",
-      "Modalidade 100% Remota (máxima conveniência)",
-      "Título altamente aderente à trilha 'Estágio em Gente & Gestão, RH & Recrutamento'",
-      "Competências encontradas (1): automação"
-    ],
-    "published_at": "Há 1 semana",
-    "raw_data": {}
-  },
-  {
-    "id": "li_3",
-    "title": "Estágio em P&D - Desenvolvimento de Software e Hardware",
-    "company": "Xmobots",
-    "location": "São Carlos, SP",
-    "city": "",
-    "state": "",
-    "is_remote": true,
-    "modality": "Remoto",
-    "url": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-p-d-desenvolvimento-de-software-e-hardware-at-xmobots-4470544283",
-    "source": "LinkedIn",
-    "description": "",
-    "seniority": "",
-    "track_matched": "Estágio em Desenvolvimento de Software & Web",
-    "match_score": 60.0,
-    "score_reasons": [
-      "Nível de senioridade perfeito (Estágio/Júnior/Trainee)",
-      "Modalidade 100% Remota (máxima conveniência)",
-      "Título altamente aderente à trilha 'Estágio em Desenvolvimento de Software & Web'",
-      "Competências encontradas (1): hardware"
-    ],
-    "published_at": "Há 1 semana",
-    "raw_data": {}
-  },
-  {
-    "id": "li_3",
     "title": "Estágio em Suporte Técnico - Araras SP",
     "company": "ESL Sistemas",
     "location": "Araras, SP",
@@ -320,7 +226,7 @@
       "Título altamente aderente à trilha 'Estágio em TI, Suporte Técnico & Redes'",
       "Competências encontradas (1): suporte técnico"
     ],
-    "published_at": "Há 3 dias",
+    "published_at": "Há 4 dias",
     "raw_data": {}
   },
   {
@@ -344,7 +250,7 @@
       "Título altamente aderente à trilha 'Estágio em Gestão de Projetos, Scrum & Agilidade'",
       "Competências encontradas (1): planejamento"
     ],
-    "published_at": "Há 2 dias",
+    "published_at": "Há 3 dias",
     "raw_data": {}
   },
   {
@@ -464,7 +370,7 @@
       "Título altamente aderente à trilha 'Estágio em Gente & Gestão, RH & Recrutamento'",
       "Competências encontradas (1): recrutamento e seleção"
     ],
-    "published_at": "Há 3 dias",
+    "published_at": "Há 4 dias",
     "raw_data": {}
   },
   {
@@ -513,102 +419,6 @@
       "Competências encontradas (1): recrutamento e seleção"
     ],
     "published_at": "Há 3 semanas",
-    "raw_data": {}
-  },
-  {
-    "id": "li_3",
-    "title": "Pessoa Estagiária em Monitoração Financeira - Python | Operações",
-    "company": "C6 Bank",
-    "location": "São Paulo, SP",
-    "city": "",
-    "state": "",
-    "is_remote": true,
-    "modality": "Remoto",
-    "url": "https://br.linkedin.com/jobs/view/pessoa-estagi%C3%A1ria-em-monitora%C3%A7%C3%A3o-financeira-python-opera%C3%A7%C3%B5es-at-c6-bank-4466213597",
-    "source": "LinkedIn",
-    "description": "",
-    "seniority": "",
-    "track_matched": "Estágio em Desenvolvimento de Software & Web",
-    "match_score": 60.0,
-    "score_reasons": [
-      "Nível de senioridade perfeito (Estágio/Júnior/Trainee)",
-      "Modalidade 100% Remota (máxima conveniência)",
-      "Título altamente aderente à trilha 'Estágio em Desenvolvimento de Software & Web'",
-      "Competências encontradas (1): python"
-    ],
-    "published_at": "Há 7 horas",
-    "raw_data": {}
-  },
-  {
-    "id": "li_3",
-    "title": "AWS Tech intern (Vaga Afirmativa para Pessoas com Deficiência), Amazon University Talent Acquisition",
-    "company": "Amazon Web Services (AWS)",
-    "location": "São Paulo e Região",
-    "city": "",
-    "state": "",
-    "is_remote": true,
-    "modality": "Remoto",
-    "url": "https://br.linkedin.com/jobs/view/aws-tech-intern-vaga-afirmativa-para-pessoas-com-defici%C3%AAncia-amazon-university-talent-acquisition-at-amazon-web-services-aws-4455908236",
-    "source": "LinkedIn",
-    "description": "",
-    "seniority": "",
-    "track_matched": "Estágio em Gente & Gestão, RH & Recrutamento",
-    "match_score": 60.0,
-    "score_reasons": [
-      "Nível de senioridade perfeito (Estágio/Júnior/Trainee)",
-      "Modalidade 100% Remota (máxima conveniência)",
-      "Título altamente aderente à trilha 'Estágio em Gente & Gestão, RH & Recrutamento'",
-      "Competências encontradas (1): talent acquisition"
-    ],
-    "published_at": "Há 1 semana",
-    "raw_data": {}
-  },
-  {
-    "id": "li_3",
-    "title": "Estágio na área de Telecomunicações",
-    "company": "CPET - Centro de Profissionalização e Educação Técnica",
-    "location": "São Paulo, SP",
-    "city": "",
-    "state": "",
-    "is_remote": true,
-    "modality": "Remoto",
-    "url": "https://br.linkedin.com/jobs/view/est%C3%A1gio-na-%C3%A1rea-de-telecomunica%C3%A7%C3%B5es-at-cpet-centro-de-profissionaliza%C3%A7%C3%A3o-e-educa%C3%A7%C3%A3o-t%C3%A9cnica-4477833508",
-    "source": "LinkedIn",
-    "description": "",
-    "seniority": "",
-    "track_matched": "Estágio em Engenharia de Telecomunicações & Redes",
-    "match_score": 60.0,
-    "score_reasons": [
-      "Nível de senioridade perfeito (Estágio/Júnior/Trainee)",
-      "Modalidade 100% Remota (máxima conveniência)",
-      "Título altamente aderente à trilha 'Estágio em Engenharia de Telecomunicações & Redes'",
-      "Competências encontradas (1): telecomunicações"
-    ],
-    "published_at": "Há 22 horas",
-    "raw_data": {}
-  },
-  {
-    "id": "li_3",
-    "title": "Estágio em Telecomunicações",
-    "company": "Bwtech",
-    "location": "Belo Horizonte e Região",
-    "city": "",
-    "state": "",
-    "is_remote": true,
-    "modality": "Remoto",
-    "url": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-telecomunica%C3%A7%C3%B5es-at-bwtech-4477602441",
-    "source": "LinkedIn",
-    "description": "",
-    "seniority": "",
-    "track_matched": "Estágio em Engenharia de Telecomunicações & Redes",
-    "match_score": 60.0,
-    "score_reasons": [
-      "Nível de senioridade perfeito (Estágio/Júnior/Trainee)",
-      "Modalidade 100% Remota (máxima conveniência)",
-      "Título altamente aderente à trilha 'Estágio em Engenharia de Telecomunicações & Redes'",
-      "Competências encontradas (1): telecomunicações"
-    ],
-    "published_at": "Há 21 horas",
     "raw_data": {}
   },
   {
@@ -734,30 +544,7 @@
       "Localizada na Região Metropolitana de Fortaleza",
       "Título altamente aderente à trilha 'Estágio em Gestão de Projetos, Scrum & Agilidade'"
     ],
-    "published_at": "Há 3 dias",
-    "raw_data": {}
-  },
-  {
-    "id": "li_3",
-    "title": "Estágio em Desenvolvimento de Software | Fortaleza/CE",
-    "company": "Ponce Tech",
-    "location": "Fortaleza, CE",
-    "city": "Fortaleza",
-    "state": "CE",
-    "is_remote": false,
-    "modality": "Presencial",
-    "url": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-desenvolvimento-de-software-fortaleza-ce-at-ponce-tech-4470004790",
-    "source": "LinkedIn",
-    "description": "",
-    "seniority": "",
-    "track_matched": "Estágio em Desenvolvimento de Software & Web",
-    "match_score": 55.0,
-    "score_reasons": [
-      "Nível de senioridade perfeito (Estágio/Júnior/Trainee)",
-      "Localizada na Região Metropolitana de Fortaleza",
-      "Título altamente aderente à trilha 'Estágio em Desenvolvimento de Software & Web'"
-    ],
-    "published_at": "Há 2 semanas",
+    "published_at": "Há 4 dias",
     "raw_data": {}
   },
   {
@@ -808,6 +595,29 @@
   },
   {
     "id": "li_3",
+    "title": "Estágio em Administração, Engenharia de Produção ou TI",
+    "company": "RB Distribuidora",
+    "location": "Fortaleza, CE",
+    "city": "Fortaleza",
+    "state": "CE",
+    "is_remote": false,
+    "modality": "Presencial",
+    "url": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-administra%C3%A7%C3%A3o-engenharia-de-produ%C3%A7%C3%A3o-ou-ti-at-rb-distribuidora-4478034937",
+    "source": "LinkedIn",
+    "description": "",
+    "seniority": "",
+    "track_matched": "Estágio em Engenharia de Telecomunicações & Redes",
+    "match_score": 55.0,
+    "score_reasons": [
+      "Nível de senioridade perfeito (Estágio/Júnior/Trainee)",
+      "Localizada na Região Metropolitana de Fortaleza",
+      "Título altamente aderente à trilha 'Estágio em Engenharia de Telecomunicações & Redes'"
+    ],
+    "published_at": "Há 2 dias",
+    "raw_data": {}
+  },
+  {
+    "id": "li_3",
     "title": "Estágio - Suporte Comercial  - Fortaleza",
     "company": "Ludfor Energia",
     "location": "Fortaleza, CE",
@@ -826,7 +636,7 @@
       "Localizada na Região Metropolitana de Fortaleza",
       "Título altamente aderente à trilha 'Estágio em TI, Suporte Técnico & Redes'"
     ],
-    "published_at": "Há 4 meses",
+    "published_at": "Há 5 meses",
     "raw_data": {}
   },
   {
@@ -895,7 +705,7 @@
       "Localizada na Região Metropolitana de Fortaleza",
       "Título altamente aderente à trilha 'Estágio em Engenharia de Telecomunicações & Redes'"
     ],
-    "published_at": "Há 1 dia",
+    "published_at": "Há 2 dias",
     "raw_data": {}
   },
   {
@@ -941,7 +751,7 @@
       "Localizada na Região Metropolitana de Fortaleza",
       "Título altamente aderente à trilha 'Estágio em Engenharia de Telecomunicações & Redes'"
     ],
-    "published_at": "Há 1 dia",
+    "published_at": "Há 2 dias",
     "raw_data": {}
   },
   {
@@ -964,7 +774,7 @@
       "Localizada na Região Metropolitana de Fortaleza",
       "Título altamente aderente à trilha 'Estágio em Engenharia de Telecomunicações & Redes'"
     ],
-    "published_at": "Há 3 dias",
+    "published_at": "Há 4 dias",
     "raw_data": {}
   },
   {
@@ -1034,29 +844,6 @@
       "Título altamente aderente à trilha 'Estágio em Desenvolvimento de Software & Web'"
     ],
     "published_at": "Há 1 semana",
-    "raw_data": {}
-  },
-  {
-    "id": "li_3",
-    "title": "ESTÁGIO ENGENHARIA CIVIL",
-    "company": "Afonso França Engenharia",
-    "location": "São Gonçalo do Amarante, CE",
-    "city": "",
-    "state": "CE",
-    "is_remote": false,
-    "modality": "Presencial",
-    "url": "https://br.linkedin.com/jobs/view/est%C3%A1gio-engenharia-civil-at-afonso-fran%C3%A7a-engenharia-4443438898",
-    "source": "LinkedIn",
-    "description": "",
-    "seniority": "",
-    "track_matched": "Estágio em Engenharia de Telecomunicações & Redes",
-    "match_score": 55.0,
-    "score_reasons": [
-      "Nível de senioridade perfeito (Estágio/Júnior/Trainee)",
-      "Localizada na Região Metropolitana de Fortaleza",
-      "Título altamente aderente à trilha 'Estágio em Engenharia de Telecomunicações & Redes'"
-    ],
-    "published_at": "Há 2 meses",
     "raw_data": {}
   },
   {
@@ -1222,52 +1009,6 @@
   },
   {
     "id": "li_3",
-    "title": "Estágio em Qualidade de Software",
-    "company": "Kaffa Tech",
-    "location": "São José dos Campos, SP",
-    "city": "",
-    "state": "",
-    "is_remote": true,
-    "modality": "Remoto",
-    "url": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-qualidade-de-software-at-kaffa-tech-4474391738",
-    "source": "LinkedIn",
-    "description": "",
-    "seniority": "",
-    "track_matched": "Estágio em Desenvolvimento de Software & Web",
-    "match_score": 55.0,
-    "score_reasons": [
-      "Nível de senioridade perfeito (Estágio/Júnior/Trainee)",
-      "Modalidade 100% Remota (máxima conveniência)",
-      "Título altamente aderente à trilha 'Estágio em Desenvolvimento de Software & Web'"
-    ],
-    "published_at": "Há 1 semana",
-    "raw_data": {}
-  },
-  {
-    "id": "li_3",
-    "title": "ESTAGIÁRIO DE DESENVOLVIMENTO DE SOFTWARE - SÃO PAULO/SP",
-    "company": "Tahto",
-    "location": "São Paulo, SP",
-    "city": "",
-    "state": "",
-    "is_remote": true,
-    "modality": "Remoto",
-    "url": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-de-desenvolvimento-de-software-s%C3%A3o-paulo-sp-at-tahto-4470570055",
-    "source": "LinkedIn",
-    "description": "",
-    "seniority": "",
-    "track_matched": "Estágio em Desenvolvimento de Software & Web",
-    "match_score": 55.0,
-    "score_reasons": [
-      "Nível de senioridade perfeito (Estágio/Júnior/Trainee)",
-      "Modalidade 100% Remota (máxima conveniência)",
-      "Título altamente aderente à trilha 'Estágio em Desenvolvimento de Software & Web'"
-    ],
-    "published_at": "Há 1 semana",
-    "raw_data": {}
-  },
-  {
-    "id": "li_3",
     "title": "Estagiário de Suporte N2 | CX",
     "company": "Aura - Consultoria de RH",
     "location": "Florianópolis, SC",
@@ -1378,7 +1119,7 @@
       "Modalidade 100% Remota (máxima conveniência)",
       "Título altamente aderente à trilha 'Estágio em Engenharia de Telecomunicações & Redes'"
     ],
-    "published_at": "Há 1 dia",
+    "published_at": "Há 2 dias",
     "raw_data": {}
   },
   {
@@ -1520,26 +1261,26 @@
     "raw_data": {}
   },
   {
-    "id": "li_0",
-    "title": "👨🏽💻💡Estagiário(a) em Desenvolvimento de Software - Multiprojetos Time de Produtos Criptográficos (CÓD.5789)",
-    "company": "Kryptus S.A. (EED)",
-    "location": "Campinas, SP",
+    "id": "li_3",
+    "title": "ESTAGIÁRIO DE DESENVOLVIMENTO DE SOFTWARE - SÃO PAULO/SP",
+    "company": "Tahto",
+    "location": "São Paulo, SP",
     "city": "",
     "state": "",
     "is_remote": true,
     "modality": "Remoto",
-    "url": "https://br.linkedin.com/jobs/view/%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB%F0%9F%92%A1estagi%C3%A1rio-a-em-desenvolvimento-de-software-multiprojetos-time-de-produtos-criptogr%C3%A1ficos-c%C3%B3d-5789-at-kryptus-sa-4458045259",
+    "url": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-de-desenvolvimento-de-software-s%C3%A3o-paulo-sp-at-tahto-4470570055",
     "source": "LinkedIn",
     "description": "",
     "seniority": "",
-    "track_matched": "Estágio em Gestão de Projetos, Scrum & Agilidade",
+    "track_matched": "Estágio em Desenvolvimento de Software & Web",
     "match_score": 55.0,
     "score_reasons": [
       "Nível de senioridade perfeito (Estágio/Júnior/Trainee)",
       "Modalidade 100% Remota (máxima conveniência)",
-      "Título altamente aderente à trilha 'Estágio em Gestão de Projetos, Scrum & Agilidade'"
+      "Título altamente aderente à trilha 'Estágio em Desenvolvimento de Software & Web'"
     ],
-    "published_at": "Há 1 mês",
+    "published_at": "Há 2 semanas",
     "raw_data": {}
   },
   {
@@ -1562,7 +1303,7 @@
       "Modalidade 100% Remota (máxima conveniência)",
       "Título altamente aderente à trilha 'Estágio em TI, Suporte Técnico & Redes'"
     ],
-    "published_at": "Há 1 dia",
+    "published_at": "Há 2 dias",
     "raw_data": {}
   },
   {
@@ -1705,6 +1446,29 @@
   },
   {
     "id": "li_3",
+    "title": "Estágio em Desenvolvimento Full Stack",
+    "company": "Sillion - Serviços de Tecnologia",
+    "location": "Belo Horizonte, MG",
+    "city": "",
+    "state": "",
+    "is_remote": true,
+    "modality": "Remoto",
+    "url": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-desenvolvimento-full-stack-at-sillion-servi%C3%A7os-de-tecnologia-4474866960",
+    "source": "LinkedIn",
+    "description": "",
+    "seniority": "",
+    "track_matched": "Estágio em Desenvolvimento de Software & Web",
+    "match_score": 55.0,
+    "score_reasons": [
+      "Nível de senioridade perfeito (Estágio/Júnior/Trainee)",
+      "Modalidade 100% Remota (máxima conveniência)",
+      "Título altamente aderente à trilha 'Estágio em Desenvolvimento de Software & Web'"
+    ],
+    "published_at": "Há 2 dias",
+    "raw_data": {}
+  },
+  {
+    "id": "li_3",
     "title": "Estágio em Desenvolvimento de Software",
     "company": "4mti",
     "location": "Belo Horizonte e Região",
@@ -1728,6 +1492,29 @@
   },
   {
     "id": "li_3",
+    "title": "Estagiário (a) em Software Engineering",
+    "company": "Insider Store",
+    "location": "São Paulo, SP",
+    "city": "",
+    "state": "",
+    "is_remote": true,
+    "modality": "Remoto",
+    "url": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-a-em-software-engineering-at-insider-store-4460036809",
+    "source": "LinkedIn",
+    "description": "",
+    "seniority": "",
+    "track_matched": "Estágio em Desenvolvimento de Software & Web",
+    "match_score": 55.0,
+    "score_reasons": [
+      "Nível de senioridade perfeito (Estágio/Júnior/Trainee)",
+      "Modalidade 100% Remota (máxima conveniência)",
+      "Título altamente aderente à trilha 'Estágio em Desenvolvimento de Software & Web'"
+    ],
+    "published_at": "Há 1 mês",
+    "raw_data": {}
+  },
+  {
+    "id": "li_3",
     "title": "Estágio em Desenvolvimento Full Stack",
     "company": "Bwtech",
     "location": "Belo Horizonte e Região",
@@ -1746,99 +1533,7 @@
       "Modalidade 100% Remota (máxima conveniência)",
       "Título altamente aderente à trilha 'Estágio em Desenvolvimento de Software & Web'"
     ],
-    "published_at": "Há 3 dias",
-    "raw_data": {}
-  },
-  {
-    "id": "li_3",
-    "title": "Estágio em Desenvolvimento Full Stack",
-    "company": "Sillion - Serviços de Tecnologia",
-    "location": "Belo Horizonte, MG",
-    "city": "",
-    "state": "",
-    "is_remote": true,
-    "modality": "Remoto",
-    "url": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-desenvolvimento-full-stack-at-sillion-servi%C3%A7os-de-tecnologia-4474866960",
-    "source": "LinkedIn",
-    "description": "",
-    "seniority": "",
-    "track_matched": "Estágio em Desenvolvimento de Software & Web",
-    "match_score": 55.0,
-    "score_reasons": [
-      "Nível de senioridade perfeito (Estágio/Júnior/Trainee)",
-      "Modalidade 100% Remota (máxima conveniência)",
-      "Título altamente aderente à trilha 'Estágio em Desenvolvimento de Software & Web'"
-    ],
-    "published_at": "Há 1 dia",
-    "raw_data": {}
-  },
-  {
-    "id": "li_3",
-    "title": "Estágio de Engenharia de Dados",
-    "company": "Belgo Arames",
-    "location": "Contagem, MG",
-    "city": "",
-    "state": "",
-    "is_remote": true,
-    "modality": "Remoto",
-    "url": "https://br.linkedin.com/jobs/view/est%C3%A1gio-de-engenharia-de-dados-at-belgo-arames-4459550052",
-    "source": "LinkedIn",
-    "description": "",
-    "seniority": "",
-    "track_matched": "Estágio em Engenharia de Telecomunicações & Redes",
-    "match_score": 55.0,
-    "score_reasons": [
-      "Nível de senioridade perfeito (Estágio/Júnior/Trainee)",
-      "Modalidade 100% Remota (máxima conveniência)",
-      "Título altamente aderente à trilha 'Estágio em Engenharia de Telecomunicações & Redes'"
-    ],
-    "published_at": "Há 1 mês",
-    "raw_data": {}
-  },
-  {
-    "id": "li_4294123943",
-    "title": "ESTAGIARIO NIVEL MEDIO - SUPORTE",
-    "company": "The Fiber",
-    "location": "Goiânia, GO",
-    "city": "",
-    "state": "",
-    "is_remote": true,
-    "modality": "Remoto",
-    "url": "https://br.linkedin.com/jobs/view/estagiario-nivel-medio-suporte-at-the-fiber-4294123943",
-    "source": "LinkedIn",
-    "description": "",
-    "seniority": "",
-    "track_matched": "Estágio em TI, Suporte Técnico & Redes",
-    "match_score": 55.0,
-    "score_reasons": [
-      "Nível de senioridade perfeito (Estágio/Júnior/Trainee)",
-      "Modalidade 100% Remota (máxima conveniência)",
-      "Título altamente aderente à trilha 'Estágio em TI, Suporte Técnico & Redes'"
-    ],
-    "published_at": "Há 1 ano",
-    "raw_data": {}
-  },
-  {
-    "id": "li_3",
-    "title": "Estagio em pós-venda",
-    "company": "AGS TELECOM 🇧🇷",
-    "location": "Recife, PE",
-    "city": "",
-    "state": "",
-    "is_remote": true,
-    "modality": "Remoto",
-    "url": "https://br.linkedin.com/jobs/view/estagio-em-p%C3%B3s-venda-at-ags-telecom-%F0%9F%87%A7%F0%9F%87%B7-4453654218",
-    "source": "LinkedIn",
-    "description": "",
-    "seniority": "",
-    "track_matched": "Estágio em TI, Suporte Técnico & Redes",
-    "match_score": 55.0,
-    "score_reasons": [
-      "Nível de senioridade perfeito (Estágio/Júnior/Trainee)",
-      "Modalidade 100% Remota (máxima conveniência)",
-      "Título altamente aderente à trilha 'Estágio em TI, Suporte Técnico & Redes'"
-    ],
-    "published_at": "Há 1 mês",
+    "published_at": "Há 4 dias",
     "raw_data": {}
   }
 ]
